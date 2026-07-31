@@ -1,2 +1,2 @@
 # Jensen-BOLG
-# learning
+# learning HTML and CSS
