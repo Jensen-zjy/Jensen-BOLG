@@ -1,3 +1,3 @@
 # Jensen-BOLG
 # learning HTML and CSS
-# period
+# period 1
